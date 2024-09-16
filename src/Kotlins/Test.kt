@@ -1,3 +1,5 @@
+package Kotlins
+
 fun main() {
     var a: Int = 10000
     var b: Int? = 10000

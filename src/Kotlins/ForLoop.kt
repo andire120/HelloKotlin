@@ -1,3 +1,5 @@
+package Kotlins
+
 fun main(args: Array<String>) {
     foo0()
 

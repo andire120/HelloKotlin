@@ -1,3 +1,5 @@
+package Kotlins
+
 fun main(arg: Array<String>) {
     val obj = Address()
     println(obj.name)

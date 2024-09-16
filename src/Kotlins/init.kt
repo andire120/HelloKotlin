@@ -1,3 +1,5 @@
+package Kotlins
+
 fun main(array: Array<String>) {
     val obj = Customer("Kotlin")
     println(obj)

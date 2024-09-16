@@ -1,3 +1,5 @@
+package Kotlins
+
 fun main(array: Array<String>) {
     var obj = Addrress()
     println(obj.data)

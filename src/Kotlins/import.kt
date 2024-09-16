@@ -1,4 +1,4 @@
-import hi.pkg.printOther2
+package Kotlins
 
 fun main(args: Array<String>) {
     printOther1()

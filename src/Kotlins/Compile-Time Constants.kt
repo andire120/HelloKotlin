@@ -1,3 +1,5 @@
+package Kotlins
+
 const val MY_CONST = "CONST"
 
 @Deprecated(MY_CONST)
