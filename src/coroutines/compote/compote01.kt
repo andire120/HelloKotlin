@@ -13,7 +13,7 @@ fun main() = runBlocking<Unit> {
 }
 
 suspend fun doSomethingUsefulOne(): Int {
-    delay(1000L)
+    delay(1000L) //실제코딩에서는 이곳에 해비한 연산 코드가 들어감.
     return 13
 }
 
